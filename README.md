@@ -26,7 +26,7 @@ TextExtract runs quietly in your menu bar, allowing you to capture and extract t
 
 ### Download Pre-built App (Recommended)
 
-1. Go to the [Releases](https://github.com/savya14/textextract/releases) page
+1. Go to the [Releases](https://github.com/savya14/Snap-Text/releases) page
 2. Download the latest `TextExtract.app.zip` file
 3. Unzip the downloaded file
 4. Move `TextExtract.app` to your Applications folder
