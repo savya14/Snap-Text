@@ -1,5 +1,4 @@
 # Snap-Text
-# TextExtract
 
 A lightweight macOS utility that extracts text from anywhere on your screen using OCR (Optical Character Recognition).
 
