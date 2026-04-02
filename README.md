@@ -1,3 +1,5 @@
+Snap any text on your screen — a fast, lightweight macOS OCR tool.
+
 # Snap-Text
 
 A lightweight macOS utility that extracts text from anywhere on your screen using OCR (Optical Character Recognition).
